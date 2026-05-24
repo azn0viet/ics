@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Custom//Waste Schedule//FR
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Recyclables Niedermodern
+X-WR-CALNAME:Ordures recyclables Niedermodern
 X-APPLE-CALENDAR-COLOR:#FFCC00
 
 BEGIN:VEVENT
