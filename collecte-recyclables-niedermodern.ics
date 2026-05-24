@@ -2,6 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Custom//Waste Schedule//FR
 CALSCALE:GREGORIAN
+X-WR-CALNAME:Recyclables Niedermodern
 
 BEGIN:VEVENT
 UID:tri-selectif@custom
